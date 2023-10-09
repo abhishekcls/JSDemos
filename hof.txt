@@ -1,0 +1,19 @@
+First-class functions -> Are treated like any other variable/object. can be passed as parameter 
+or returned from function.
+
+HOF(Higher Order Function) -> A function that accepts function as parameter or returns another function.
+
+Callback function-> which is passed as a parameter to another function(HOF). 
+
+==============================================================================================
+Built in HOFs
+
+forEach
+sort
+
+var nums=[1,3,6,8,5,11,100]
+7 numbers
+
+map -> 7 -> transform -> 7
+filter -> 7 -> condition(true) -> 0-7
+reduce -> 7 -> summarize -> 1

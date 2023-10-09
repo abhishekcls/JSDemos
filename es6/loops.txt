@@ -1,0 +1,35 @@
+ES6/ES2015
+Loop -> Iteration -> to repeat
+
+1. for loop
+
+for(initialization ; condition ; reinitialization)
+{
+    //body
+}
+
+2. while
+
+while(condition)
+{
+    //body
+}
+
+3. do..while
+
+do
+{
+    //body
+}while(condition);
+
+4. for..in
+
+for(variable in arr/obj){
+    //body
+}
+
+5. for..of (new in ES6)
+
+for(variable of arr/obj){
+    //body
+}

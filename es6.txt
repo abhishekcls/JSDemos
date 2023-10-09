@@ -1,0 +1,9 @@
+New Features of ES6/ES2015
+
+block scope -> let and const
+for..of loop
+Template Literals
+Arrow functions
+Destructuring
+Default parameters
+Class

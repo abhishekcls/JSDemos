@@ -1,0 +1,29 @@
+ES5 Loops
+Loop -> Iteration -> to repeat
+
+1. for loop
+
+for(initialization ; condition ; reinitialization)
+{
+    //body
+}
+
+2. while
+
+while(condition)
+{
+    //body
+}
+
+3. do..while
+
+do
+{
+    //body
+}while(condition);
+
+4. for..in
+
+for(variable in arr/obj){
+    //body
+}
